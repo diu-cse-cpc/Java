@@ -8,4 +8,6 @@ After install JDK then install netbeans.
 
 Remember that you must download JDK 8.
 
-For more help watch this video https://www.youtube.com/watch?v=QKKdrgGQljA
+For more help watch this video https://youtu.be/6QSlTAkpWQ0
+
+
