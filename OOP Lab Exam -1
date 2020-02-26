@@ -1,12 +1,12 @@
-     <div style="margin: 0 auto; width: 70%; text-align: justify; font-size: 23px">
-        <p>Northern Bank limited is a new bank. They will start their banking activities as soon as possible. To start their banking activities they need a online bank management software. They contact with Nova Software limited to make there Bank Management Software. 
-Northern Bank has 5 types of bank account. They are Savings Account, Current Account, Credit Account, Soriah Account and Student Account. Every accounts has different facilities and feature.</p>
-        <ol>
-            <li>Savings Account is a bank account where account holder can deposit any amount of money and can withdraw less then 500 Tk from deposited money. And account holders get 5% interest over his money and gives 2% VAT to government.</li>
-            <li>Current account is same like Savings account but there are a different, account holder can withdraw as much as he deposited. And there is no vat and no interest.</li>
-            <li>Credit account is also a bank account where every account holder has a credit limit. User can withdraw as much as his/her credit limit. When beneficiary withdraw from this account the must pay extra 84 Tk for service charge. Note:  Credit limit of a user is initialed when account is created. </li>
-            <li>Student account is same like Savings Account. But different is account holder does not give VAT.</li>
-            <li>Soriah account is also like savings accounts but account holder foes not receive any interest. </li>
-        </ol>
-        <p>Suppose, you and your team works in Nova Software Limited. Your management assign this project to your team. Now you have to implement this project within 2 hours.</p>
-        </div>
+    
+        Northern Bank limited is a new bank. They will start their banking activities as soon as possible. To start their banking activities they need a online bank management software. They contact with Nova Software limited to make there Bank Management Software. 
+Northern Bank has 5 types of bank account. They are Savings Account, Current Account, Credit Account, Soriah Account and Student Account. Every accounts has different facilities and feature.
+        
+            Savings Account is a bank account where account holder can deposit any amount of money and can withdraw less then 500 Tk from deposited money. And account holders get 5% interest over his money and gives 2% VAT to government.
+            Current account is same like Savings account but there are a different, account holder can withdraw as much as he deposited. And there is no vat and no interest.
+            Credit account is also a bank account where every account holder has a credit limit. User can withdraw as much as his/her credit limit. When beneficiary withdraw from this account the must pay extra 84 Tk for service charge. Note:  Credit limit of a user is initialed when account is created. 
+            Student account is same like Savings Account. But different is account holder does not give VAT.
+            Soriah account is also like savings accounts but account holder foes not receive any interest.
+       
+        Suppose, you and your team works in Nova Software Limited. Your management assign this project to your team. Now you have to implement this project within 2 hours.
+        
