@@ -13,27 +13,17 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
-        
-        <%= Calendar.getInstance().getTime() %>  
-        <%!
-            String name = "Sam"; //Seclaration Tag
+
+        <fieldset>
+        <form action="receiver.jsp" method="POST">
            
-            %>
-            <br>
-            <%
-                out.println("<h3>"+name+"</h3>");
-                
-if (session.isNew()) {
-        out.println("<h1>Welcome to DIU CPC</h1>");
-    } else {
-    out.println("<h1>WelcomeBack to DIU CPC</h1>");
-    }
+            Email : <input type="email" name="email" /><br>
+            Password: <input type="password" name ="pass" /><br>
+            <input type="submit"/>
+        </form>
+            
+        </fieldset>
+        <a href="receiver.jsp">Go Next Page</a>
 
-out.println("<h3>"+session.getId()+"</h3>");
-out.println("<h3>"+request.getRemoteUser()+"</h3>");
-
-            %>
-        
     </body>
 </html>
